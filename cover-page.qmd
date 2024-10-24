@@ -1,0 +1,24 @@
+---
+editor:
+  render-on-save: true
+---
+
+\noindent Title: Improving Functionalist Arguments
+
+\noindent Wordcount. 16,736 words
+
+\noindent Authors:
+
+Andrés Castro Araújo. Department of Sociology, Duke University
+
+Nicolas Restrepo Ochoa. Department of Anthropology, University of California-Davis
+
+\noindent Corresponding Author: Andrés Castro Araújo. 
+
+email: andres.castro.araujo@duke.edu
+
+phone: 718-360-6862
+
+\noindent Department of Sociology, Duke University, 276 Reuben‑Cooke, 417 Chapel Drive, Box 90088, Durham, NC 27708, USA. 
+
+\noindent Acknowledgments. We would like to thank Kieran Healy, Braulio Güémez, Turgut Keskintürk, Juan R. Loaiza, Gunnar Babcock, Martin Ruef, and Steve Vaisey for all the helpful feedback given throughout the long amount of time it took to write this.
